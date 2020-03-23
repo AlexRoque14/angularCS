@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  wsUlr: 'http://3.86.115.93:3000/'
+  wsUlr: 'http://54.173.196.214:3000/'
 };
 
 /*
